@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Редакторы (если используешь VS Code)
+.vscode/
+*.swp
+
+# Данные (ЕСЛИ не хочешь заливать FASTA на GitHub)
+# *.fasta
+# *.fa
